@@ -13,4 +13,8 @@ public class BMain {
     public func Bfunc() {
         print("0.0.1")
     }
+    
+    public func Bfunc2() {
+        print("It is New")
+    }
 }
