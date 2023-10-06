@@ -8,6 +8,8 @@
 import Foundation
 
 public class BMain {
+    public static var shared = BMain()
+    
     public func Bfunc() {
         print("0.0.1")
     }
